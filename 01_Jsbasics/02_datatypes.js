@@ -8,7 +8,7 @@ console.log(3+3) //code readablity should be high
  let name = "Ashutosh"
  let age = 18
  let isLoggedIn = false
- let state = null
+ let state = null 
 
  //number => 2 to power 53
 // bigint 
@@ -16,4 +16,4 @@ console.log(3+3) //code readablity should be high
 // null => standalone value
 //object
 
-console.log(typeof "hitesh")
+console.log(typeof state)
